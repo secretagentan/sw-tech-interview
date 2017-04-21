@@ -22,9 +22,6 @@ body {
 .my-nav-links {
   font-size: .8em;
 }
-/*a.my-nav-links {
-  color: white;
-}*/
 .my-active-link {
   border-bottom: solid #01A8ED 3px;
 }
