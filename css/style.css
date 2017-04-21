@@ -22,10 +22,17 @@ body {
 .my-nav-links {
   font-size: .8em;
 }
-a.my-nav-links {
-  display: inline-block;
+/*a.my-nav-links {
   color: white;
-}
+}*/
 .my-active-link {
   border-bottom: solid #01A8ED 3px;
+}
+.jt-main {
+  min-height: 50%;
+  min-height: 50vh;
+  background-image: url("../assets/bg-2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
 }
