@@ -1,0 +1,31 @@
+body {
+  background-color: gainsboro;
+}
+.vertical-center {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.cont-nav {
+  width: 75%;
+  margin: 0 auto;
+}
+.my-logo {
+  font-weight: 100;
+  letter-spacing: 3px;
+  font-size: 1.6em;
+}
+.my-nav {
+  padding-left: 8%;
+  background: black;
+}
+.my-nav-links {
+  font-size: .8em;
+}
+a.my-nav-links {
+  display: inline-block;
+  color: white;
+}
+.my-active-link {
+  border-bottom: solid #01A8ED 3px;
+}
