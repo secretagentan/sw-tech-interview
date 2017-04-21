@@ -31,10 +31,6 @@ body {
 .jt-main {
   min-height: 50%;
   min-height: 50vh;
-  /*background-image: url("../assets/bg-2.jpg");*/
-/*  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100%;*/
 }
 .cont-main {
   padding: 0;
@@ -47,10 +43,22 @@ img.bg-main {
   height: 300px;
   position: center;
 }
+.jt-info {
+  width: 80%;
+}
 .cont-info {
   display: inline-block;
   min-height: 80%;
   min-height: 80vh;
-  z-index: 0;
-
+  width: 100%;
+  margin: 0 auto;
+}
+.my-btn {
+  width: 100%;
+  background-color: #00AAF1;
+  color: white;
+  height: 4em;
+  border-radius: 0;
+  font-size: .8em;
+  margin-top: 10%;
 }
